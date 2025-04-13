@@ -1,12 +1,27 @@
 {% extends '_templates/base.njk' %}
 
-{% block content %}{% block page_title %}Intro{% endblock %}
-<div class="container">
-  <div class="row">
+{% block page_title %}Recs{% endblock %}
+
+{% block page_description %}A list of pirate ships of lore from fact and fiction.{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1>Recommendtions on where to eat in Tokyo</h1>
+  <p>Some places I ate at during my study abroad in Japan!</p>  <div class="row row-cols-1 row-cols-md-2 g-4">
+    {% for recs in recs.recs %}
     <div class="col">
-    <h1>Let's learn Japanese!</h1>
-      <p>Follow my Japanese language learning journey, from blog posts to Japanese textbook/resourse reviews, this is the place for you!</p>
+      <div class="card">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ recs.name }}</h5>
+          <p class="card-text">{{ recs.blurb }}</p>
+        </div>
+        <div class="card-footer">
+          <a href="{{ recs.source }}" class="card-link">Reviews</a>
+       </div>
+      </div>
     </div>
+    {% endfor %}
   </div>
-</div>
+</article>
 {% endblock %}

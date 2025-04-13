@@ -1,0 +1,52 @@
+{
+  "recs": [
+    {
+      "name": "INITIAL Omotesando",
+      "location": "6 Chome-12-7 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "blurb": "INITIAL Omotesando is a stylish parfait café tucked in Tokyo’s fashionable Omotesando district, bringing Sapporo’s “shime parfait” culture—ending the night with a parfait—to the capital. Known for its seasonal creations made with rich Hokkaido milk soft-serve, fresh fruits, and unique twists like alcohol-infused jellies, the café offers standout treats like the Pistachio-Strawberry Mont Blanc Parfait and airy fruit sandwiches on Hokkaido brioche. With a minimalist, cozy interior and convenient location near Meiji-Jingumae, Harajuku, and Omotesando stations, INITIAL Omotesando is a go-to spot for dessert lovers seeking a refined yet playful sweet escape in the heart of Tokyo.",
+      "tablelog": "https://tabelog.com/en/tokyo/A1306/A130601/13233470/"
+    },
+    {
+      "name": "The Matcha Tokyo",
+      "location": "5 Chome-11-13 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "blurb": "The Matcha Tokyo is a serene, modern café in Omotesando dedicated to high-quality, organic matcha sourced from Japan’s finest tea-growing regions. Offering everything from classic matcha lattes and cold brews to soft-serve and vegan-friendly sweets, the café blends traditional tea culture with sleek, contemporary design. With its calming aesthetic and focus on sustainability, The Matcha Tokyo is a go-to spot for both matcha purists and curious newcomers seeking a refreshing, health-conscious break in the heart of the city.",
+      "tablelog": "https://tabelog.com/en/tokyo/A1306/A130601/13282522/"
+    },
+    {
+      "name": "Little Pool Coffee",
+      "location": "Japan, 〒107-0062 Tokyo, Minato City, Minamiaoyama, 3 Chome−8−26 パートナーズ表参道 1F",
+      "blurb": "Tucked away in a quiet alley just five minutes from Omotesando Station, Little Pool Coffee is a cozy café known for its artistic omurice and specialty coffee. The café offers two main styles of omurice: the \"torotoro,\" featuring a soft, runny omelet atop ketchup-seasoned rice, and the \"kurumi,\" a classic version with the rice wrapped inside a thin egg crepe. For egg enthusiasts, the \"Mugen Omurice\" doubles the omelet layers for an indulgent experience . Complement your meal with their selection of hand-brewed coffees or refreshing lemon squash. With its minimalist wooden interior and friendly atmosphere, Little Pool Coffee offers a delightful retreat in the heart of Tokyo.",
+      "tablelog": "https://tabelog.com/en/tokyo/A1306/A130602/13196008/"
+    },
+    {
+      "name": "Miyako",
+      "location": "Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 3 Chome−9−6 スバルMビル",
+      "blurb": "​Tonkatsu Miyako is a cozy, 19-seat restaurant in Tokyo’s Azabu-Juban neighborhood, renowned for its expertly prepared pork cutlets. Signature dishes include the special filet katsu, a generous 250g cut served with a unique twist—maple syrup and salt—for a sweet-savory flavor combination. The menu also features katsu curry, katsuni (pork cutlet simmered with egg), and the popular kushi katsu skewers. For those on the go, their katsu curry sandwich, made with crustless shokupan and flavorful curry, is a standout option. Located at 3-9-6 Azabujuban in Minato City, the restaurant is a short walk from Azabu-Juban Station. Open daily except Wednesdays, Tonkatsu Miyako offers a relaxed atmosphere perfect for solo diners or small groups.",
+      "tablelog": "https://tabelog.com/en/tokyo/A1307/A130702/13211807/"
+    },
+    {
+      "name": "Sushi Murayama",
+      "location": "Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 7 Chome−6−2 銀座門ビル 7階",
+      "blurb": "Sushi Murayama is a Michelin-starred sushi restaurant located in Tokyo's upscale Ginza district. The restaurant offers an omakase experience that blends traditional Edomae sushi with kaiseki-inspired appetizers, showcasing seasonal ingredients and meticulous craftsmanship. Signature dishes include abalone with liver sauce and a variety of nigiri featuring expertly prepared seafood atop red vinegar-seasoned rice. With only eight counter seats, Sushi Murayama provides an intimate dining atmosphere. Reservations are essential and can be made via their official website or through platforms like Omakase. The restaurant is conveniently located approximately 282 meters from Ginza Station.",
+      "tablelog": "https://tabelog.com/en/tokyo/A1301/A130101/13287621/"
+    },
+    {
+      "name": "NEW NEW YORK CLUB BAGEL & SANDWICH SHOP",
+      "location": "3 Chome-8-5 Azabujuban, Minato City, Tokyo 106-0045, Japan",
+      "blurb": "NEW NEW YORK CLUB BAGEL & SANDWICH SHOP in Azabu-Juban brings authentic New York–style bagels to Tokyo, offering a vibrant selection of hand-rolled bagels and hearty sandwiches. Favorites include the classic bacon, egg & cheese breakfast roll and the whimsical rainbow-colored bagels, available in limited quantities on weekends and holidays. The shop also caters to various dietary preferences with vegan options like the vegan chicken salad bagel sandwich. Located at 3-8-5 Azabujuban, Minato City, it's just a 3-minute walk from Azabu-Juban Station. Operating hours are Monday through Saturday from 9:00 AM to 6:00 PM, and Sundays until 5:00 PM, though they may close earlier if items sell out. Please note that the shop is cashless, accepting credit cards and electronic payments only. ​",
+      "tablelog": "https://tabelog.com/en/tokyo/A1307/A130702/13209965/"
+    },
+    {
+      "name": "SAVOY Azabujuban",
+      "location": "Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 2 Chome−20−12 オリエント麻布 1階",
+      "blurb": "SAVOY in Azabu-Juban is a cozy, counter-only pizzeria famous for its authentic Neapolitan-style pies. With just two main options—the Margherita and the Marinara—each pizza is wood-fired to perfection, featuring a chewy crust and simple, high-quality ingredients. Located just minutes from Azabu-Juban Station, it’s a must-visit for pizza purists in Tokyo.",
+      "tablelog": "https://tabelog.com/en/tokyo/A1307/A130702/13155593/"
+    },
+    {
+      "name": "Amanoya",
+      "location": "Japan, 〒106-0045 Tokyo, Azabujuban, 3 Chome−1−9 1F",
+      "blurb": "Amanoya is a charming café nestled in Tokyo's Azabu-Juban neighborhood, celebrated for its traditional Japanese sweets and serene ambiance reminiscent of a Kyoto inn. Established in Osaka in 1932 and relocated to its current location in 2003, the café is renowned for its signature egg sandwiches (tamago sando), ogura toast with sweet red bean paste, and warabimochi dusted with kinako flour. In the evenings, Amanoya offers savory dishes like okonomiyaki, earning it a Michelin Bib Gourmand recognition. With its blend of traditional decor and contemporary elements, Amanoya provides a tranquil retreat just a short walk from Azabu-Juban Station.​",
+      "tablelog": "https://tabelog.com/en/tokyo/A1307/A130702/13014306/"
+    }
+  ]
+}
