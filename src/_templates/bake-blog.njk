@@ -4,22 +4,20 @@
 
 {% block page_title %}{{ headline }}{% endblock %}
 
-{% block page_description %}{{ headline }} by Capt. Crit McGillicutty{% endblock %}
+{% block page_description %}{{ headline }} by Isabella Lawson{% endblock %}
 
 {% block content %}
-  <article class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <img src="../img/" alt="pirate character" class="img-fluid">
-        <p class="byline">By Crit McGillicutty<br>
-        <span>Island Breeze Tribune</span></p>
-        <hr class="d-sm-none">
-      </div>
-      <div class="col-sm-8">
-        <img src="../img/{{ image }}" alt="" class="img-fluid mb-4">
-        <h1>{{ headline }}</h1>
-        {{ prose(post) }}
-      </div>
+<article class="container">
+  <div class="row">
+    <div class="col-12">
+      <!-- Image floating to the left -->
+      <img src="../img/{{ image }}" alt="{{ altText }}" class="img-fluid mb-4 float-left mr-4" style="max-width: 50%;">
+      
+      <h1>{{ headline }}</h1>
+      <p class="byline text-muted">By Isabella Lawson | {{ date }}</p> 
+      <hr>
+      {{ prose(post) }}
     </div>
-  </article>
+  </div>
+</article>
 {% endblock %}

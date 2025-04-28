@@ -3,19 +3,19 @@
     {
       "slug": "wanikani",
       "title": "WaniKani",
-      "blurb": "WaniKani is an online tool designed to help learners master over 2,000 kanji and 6,000 vocabulary words using a spaced repetition system. It focuses on efficient memorization through mnemonic aids and timed reviews that reinforce long-term retention. Best suited for learners who want to build strong reading skills, WaniKani is a powerful supplement to any Japanese study routine.",
+      "blurb": "WaniKani is a spaced repetition tool to help you master over 2,000 kanji! The user interface is really intuitive, making learning kanji colorful and fun. It also helps you memorize kanji through the mnemonics system, which arguably is one of the best ways to memorize each character faster. Native Japanese speakers learn kanji from ages 4 to 18, and WaniKani does a great job of making the year-long memorization process easy and accessible. The only downside is it costs around $10 a month, and the pace is quite slow as it prioritizes spaced repetition.",
       "img": "wanikani.jpg"
     },
     {
       "slug": "genki",
       "title": "Genki",
-      "blurb": "Genki, An Integrated Course in Elementary Japanese, is a highly recommended textbook for beginners learning Japanese. It offers a clear, structured approach with engaging dialogues, grammar explanations, and practice exercises that build foundational skills. Ideal for both classroom and self-study, it also incorporates cultural context to enhance language learning.",
+      "blurb": "Genki is the most famous beginner-friendly Japanese text-book. The explanations for complicated grammar structures are made simple, arguably the best out of any other Japanese textbook. To get a basic grasp of Japanese, I highly recommend purchasing Genki I and Genki II. By the end of both textbooks, you’ll be far from fluent, but you’ll certainly grasp the most important building blocks of the Japanese language.",
       "img": "genki.jpg"
     },
     {
       "slug": "anki",
       "title": "Anki",
-      "blurb": "Anki is a customizable flashcard app that uses spaced repetition to help learners efficiently memorize and retain information, including Japanese vocabulary, kanji, and grammar. Its flexibility allows users to download pre-made decks or create their own tailored to specific learning goals. Anki is especially popular among serious language learners for its effectiveness in long-term retention and daily review.",
+      "blurb": "Anki is arguably the most important resource on this list. Learning Japanese grammar is one thing, but the most arduous task is learning vocab, especially with it’s correlating kanji. Japanese learners swear by Anki for its spaced repetition system, maximizing your memorization to its fullest potential. To truly utilize Anki, I suggest making a list of any new Japanese words you encounter throughout the week and input them into your flashcard deck. To many Japanese learners online, this is the tried and true way of getting over one of the hardest parts of learning Japanese.",
       "img": "anki.jpg"
     }
   ],
