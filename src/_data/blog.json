@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "slug": "one",
+      "headline": "Learning Japanese – My Journey",
+      "date": "Apr. 20, 2025",
+      "image": "",
+      "post": [
+        {
+          "type": "text",
+          "value": "Learning Japanese can feel overwhelming at first, but using the right tools makes all the difference. I started with Genki, a super beginner-friendly textbook that teaches grammar, vocabulary, and listening through practical dialogues (shoutout to Mary-san and Takeshi). It’s perfect if you want structure and a solid foundation. To tackle kanji, I turned to WaniKani, which uses clever mnemonics and spaced repetition to teach over 2,000 characters in a surprisingly fun way — seriously, it turns kanji into a game."
+        },
+        {
+          "type": "text",
+          "value": "To tie everything together, Anki became my go-to for review. It’s a flashcard app that uses spaced repetition and is endlessly customizable. I used it to reinforce grammar from Genki and vocab outside of WaniKani, adding audio and example sentences for context. If you’re just getting started, I’d recommend combining these three: Genki for grammar, WaniKani for kanji, and Anki for everything else. Stick with it, and you’ll be surprised how far you can go. がんばって！"
+        }
+      ]
+    },
+    {
+      "slug": "two",
+      "headline": "Traveling to Japan",
+      "date": "Apr. 24, 2025",
+      "image": "",
+      "post": [
+        {
+          "type": "text",
+          "value": "In spring 2024, I had the incredible opportunity to study abroad at Sophia University in Tokyo — and it was truly one of the most unforgettable chapters of my life. Living in Japan for a semester wasn’t just about taking classes; it was about stepping into a culture I’d admired for years, navigating the Tokyo train system like a pro (eventually), and finding a second home halfway across the world. From cherry blossoms in Yoyogi Park to late-night ramen runs in Shinjuku, every day was a new adventure."
+        },
+        {
+          "type": "text",
+          "value": "What made the experience even more meaningful was being able to apply the Japanese I’d studied before the trip — shoutout to Genki, WaniKani, and Anki for laying the groundwork! Speaking the language, even just a little, opened up so many doors and helped me connect more deeply with the people and places around me. Whether it was chatting with classmates, ordering food with confidence, or getting lost (and un-lost) with the help of kind locals, I grew so much — both linguistically and personally. If you’re even thinking about studying abroad in Japan, I can’t recommend it enough."
+        }
+      ]
+    }
+  ]
+}

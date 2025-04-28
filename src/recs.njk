@@ -2,22 +2,22 @@
 
 {% block page_title %}Recs{% endblock %}
 
-{% block page_description %}A list of pirate ships of lore from fact and fiction.{% endblock %}
+{% block page_description %}A list of places I ate at and recommend in Japan.{% endblock %}
 
 {% block content %}
 <article class="container">
   <h1>Recommendations on where to eat in Tokyo</h1>
-  <p>Some places I ate at during my study abroad in Japan!</p>  <div class="row row-cols-1 row-cols-md-2 g-4">
-    {% for recs in recs.recs %}
+  <p>Some places I ate at and recommend during my study abroad in Tokyo, Japan!</p>  <div class="row row-cols-1 row-cols-md-2 g-4">
+    {% for item in recs.recs %}
     <div class="col">
       <div class="card">
-        <img src="img/{{ recs.img }}" class="card-img-top" alt="...">
+        <img src="img/{{ item.img }}" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">{{ recs.name }}</h5>
-          <p class="card-text">{{ recs.blurb }}</p>
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class="card-text">{{ item.blurb }}</p>
         </div>
         <div class="card-footer">
-          <a href="{{ recs.source }}" class="card-link">Reviews</a>
+          <a href="{{ item.source }}" class="card-link">Reviews</a>
        </div>
       </div>
     </div>

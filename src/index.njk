@@ -1,11 +1,27 @@
 {% extends '_templates/base.njk' %}
 
-{% block content %}{% block page_title %}Intro{% endblock %}
+{% block page_title %}Intro{% endblock %}
+
+{% block content %}
 <div class="container">
   <div class="row">
     <div class="col">
-    <h1>Let's learn Japanese!</h1>
-      <p>Follow my Japanese language learning journey, from blog posts to Japanese textbook/resourse reviews, this is the place for you!</p>
+      <h1>Let's get fluent!</h1>
+      <p>Want to become fluent in more than just the Japanese language? Follow my compendium of everything Japan related: from language learning tips and resources, to recommendations around Tokyo, this is the place for you!</p>
+      
+      <div class="row">
+        <div class="col-12">
+          <h2>Latest Blog Entries</h2>
+          <ul class="list-unstyled">
+            {% for blog in blog.blogs %}
+              <li class="mb-4">
+                <h3><a href="/blog/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
+                <p class="text-muted">{{ blog.date }}</p>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </div>

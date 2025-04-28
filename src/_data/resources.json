@@ -1,22 +1,22 @@
 {
-  "books": [
+  "resources": [
     {
-      "slug": "the-clown",
-      "title": "The Clown",
-      "author": "Heinrich Böll",
-      "blurb": "The Clown (German: Ansichten eines Clowns, lit. “Opinions of a clown”) is a 1963 novel by West German writer Heinrich Böll."
+      "slug": "wanikani",
+      "title": "WaniKani",
+      "blurb": "WaniKani is an online tool designed to help learners master over 2,000 kanji and 6,000 vocabulary words using a spaced repetition system. It focuses on efficient memorization through mnemonic aids and timed reviews that reinforce long-term retention. Best suited for learners who want to build strong reading skills, WaniKani is a powerful supplement to any Japanese study routine.",
+      "img": "wanikani.jpg"
     },
     {
-      "slug": "the-shipping-news",
-      "title": "The Shipping News",
-      "author": "Annie Proulx",
-      "blurb": "The Shipping News is a novel by American author E. Annie Proulx and published by Charles Scribner's Sons in 1993. It won the <a href=\"https://www.pulitzer.org/winners/e-annie-proulx\">Pulitzer Prize</a>, the <a href=\"https://www.nationalbook.org/books/shipping-news/\">U.S. National Book Award</a>, as well as other awards. It was adapted as a film of the same name which was released in 2001."
+      "slug": "genki",
+      "title": "Genki",
+      "blurb": "Genki, An Integrated Course in Elementary Japanese, is a highly recommended textbook for beginners learning Japanese. It offers a clear, structured approach with engaging dialogues, grammar explanations, and practice exercises that build foundational skills. Ideal for both classroom and self-study, it also incorporates cultural context to enhance language learning.",
+      "img": "genki.jpg"
     },
     {
-      "slug": "the-hearing-trumpet",
-      "title": "The Hearing Trumpet",
-      "author": "Leonora Carrington",
-      "blurb": "The Hearing Trumpet is a story by Leonora Carrington about 92-year-old Marian Leatherby, who is given the gift of a hearing trumpet only to discover that what her family is saying is that she is to be committed to an institution."
+      "slug": "anki",
+      "title": "Anki",
+      "blurb": "Anki is a customizable flashcard app that uses spaced repetition to help learners efficiently memorize and retain information, including Japanese vocabulary, kanji, and grammar. Its flexibility allows users to download pre-made decks or create their own tailored to specific learning goals. Anki is especially popular among serious language learners for its effectiveness in long-term retention and daily review.",
+      "img": "anki.jpg"
     }
   ],
   "example_multigraph": [
