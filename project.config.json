@@ -6,6 +6,21 @@
       "name": "library"
     },
     {
+      "fileId": "1e17qzOXmTkRni3-xjjTCdnGeNOsx8ziAiCHZ1TwXBPA",
+      "type": "sheet",
+      "name": "carousel"
+    },
+    {
+      "fileId": "1l0Tqecwaa1LoS_Ae_zND6DVFSm25rKOk9fy5izblc-I",
+      "type": "doc",
+      "name": "blog"
+    },
+    {
+      "fileId": "1-OxMHVacz1tURebFQ5lpjg5OAx_pho8Y5_9q4xv1Tl0",
+      "type": "doc",
+      "name": "resources"
+    },
+    {
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
@@ -20,10 +35,17 @@
   "to_bake": [
     {
       "template": "bake-book",
-      "data": "library",
-      "array": "books",
+      "data": "resources",
+      "array": "resources",
       "slug": "slug",
-      "path": "books"
+      "path": "resources"
+    },
+    {
+      "template": "bake-blog",
+      "data": "blog",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "blog"
     }
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "slug": "wanikani",
+      "title": "WaniKani",
+      "blurb": "WaniKani is a spaced repetition tool to help you master over 2,000 kanji! The user interface is really intuitive, making learning kanji colorful and fun. It also helps you memorize kanji through the mnemonics system, which arguably is one of the best ways to memorize each character faster. Native Japanese speakers learn kanji from ages 4 to 18, and WaniKani does a great job of making the year-long memorization process easy and accessible. The only downside is it costs around $10 a month, and the pace is quite slow as it prioritizes spaced repetition.",
+      "img": "wanikani.jpg"
+    },
+    {
+      "slug": "genki",
+      "title": "Genki",
+      "blurb": "Genki is the most famous beginner-friendly Japanese text-book. The explanations for complicated grammar structures are made simple, arguably the best out of any other Japanese textbook. To get a basic grasp of Japanese, I highly recommend purchasing Genki I and Genki II. By the end of both textbooks, you’ll be far from fluent, but you’ll certainly grasp the most important building blocks of the Japanese language.",
+      "img": "genki.jpg"
+    },
+    {
+      "slug": "anki",
+      "title": "Anki",
+      "blurb": "Anki is arguably the most important resource on this list. Learning Japanese grammar is one thing, but the most arduous task is learning vocab, especially with it’s correlating kanji. Japanese learners swear by Anki for its spaced repetition system, maximizing your memorization to its fullest potential. To truly utilize Anki, I suggest making a list of any new Japanese words you encounter throughout the week and input them into your flashcard deck. To many Japanese learners online, this is the tried and true way of getting over one of the hardest parts of learning Japanese.",
+      "img": "anki.jpg"
+    }
+  ],
+  "example_multigraph": [
+    {
+      "name": "Matt’s El Rancho",
+      "address": "2613 S Lamar Blvd, Austin, TX 78704",
+      "description": [
+        {
+          "type": "text",
+          "value": "Matt Martinez started his career in 1923 at the age of six selling tamales from a wooden pushcart by the Texas Capitol."
+        },
+        {
+          "type": "text",
+          "value": "Matt & Janie opened El Rancho in 1952 on East 1st Street in downtown Austin with no employees and seating for 40.   Matt worked the front of the house and Janie made everything from scratch in the kitchen."
+        },
+        {
+          "type": "text",
+          "value": "Today the South Lamar restaurant seats more than 500.  El Rancho still makes everything from scratch.  Our in house tortilla factory grinds Non-GMO corn daily to make the freshest corn tortillas and chips you can find.   Our famous Margarita’s are made with fresh squeezed lime juice."
+        }
+      ]
+    }
+  ],
+  "example_prose": [
+    {
+      "type": "text",
+      "value": "This is the first paragraph of a multi-paragraph intro formatted in a Google Doc to be used for <a href=\"http://archieml.org/#demo\">ArchieML</a> that includes . What is said here is not that important, but the structure of this text in the Google Doc is."
+    },
+    {
+      "type": "subhead",
+      "value": "This is subhead"
+    },
+    {
+      "type": "text",
+      "value": "This is the second paragraph of the text to show how to loop over the text."
+    },
+    {
+      "type": "text",
+      "value": "# this is a list embedded in the text"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "type": "text",
+          "value": "First list item."
+        },
+        {
+          "type": "text",
+          "value": "Second list item."
+        }
+      ]
+    }
+  ],
+  "example_image": [
+    {
+      "type": "text",
+      "value": "This is another freeform array of text with multiple paragraphs but in this case there is an image call between two paragraphs of the text."
+    },
+    {
+      "type": "img",
+      "value": {
+        "filename": "the-clown.jpg",
+        "alt": "the clown"
+      }
+    },
+    {
+      "type": "text",
+      "value": "This is the second graph of text. The image above will be placed between the two graphs using an image macro in the processors.njk file."
+    }
+  ]
+}

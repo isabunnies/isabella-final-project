@@ -1,11 +1,56 @@
 {% extends '_templates/base.njk' %}
 
-{% block content %}{% block page_title %}Intro{% endblock %}
+{% block page_title %}Intro{% endblock %}
+
+{% block content %}
 <div class="container">
   <div class="row">
     <div class="col">
-    <h1>Let's learn Japanese!</h1>
-      <p>Follow my Japanese language learning journey, from blog posts to Japanese textbook/resourse reviews, this is the place for you!</p>
+      <h1>Let's get fluent!</h1>
+      <p>Want to become fluent in more than just the Japanese language? Follow my compendium of everything Japan related: from language learning tips and resources, to recommendations around Tokyo, this is the place for you!</p>
+
+      <p>Psst.. if you're looking for some tools and applications to make your Japanese language learning journey a bit easier, take a look at the Resources tab in the navigation bar above!</p> 
+
+      <!-- Carousel -->
+      <div id="carouselExampleControls" class="carousel slide mb-4" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          {% for item in carousel.carousel %}
+            <div class="carousel-item {% if loop.first %}active{% endif %}">
+              <img class="d-block w-50" src="img/{{ item.img }}" alt="{{ item.alt }}">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>{{ item.title }}</h5>
+                <p>{{ item.caption }}</p>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+        <!-- Carousel next/prev buttons -->
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+      <!-- Carousel Ends -->
+
+      <!-- Blog Loop -->
+      <div class="row">
+        <div class="col-12">
+          <h2>Latest Blog Entries</h2>
+          <ul class="list-unstyled">
+            {% for blog in blog.blogs %}
+              <li class="mb-4">
+                <h3><a href="/blog/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
+                <p class="text-muted">{{ blog.date }}</p>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </div>

@@ -1,0 +1,34 @@
+{
+  "carousel": [
+    {
+      "img": "tower.jpg",
+      "alt": "Tokyo Tower",
+      "title": "Tokyo Tower at night",
+      "caption": "A photo of Tokyo Tower I took during a night time walk with friends. The tower is located very close to were I lived in the Minato Ward!"
+    },
+    {
+      "img": "udon.jpg",
+      "alt": "Udon",
+      "title": "Carbonara udon",
+      "caption": "Insta-worthy carbonara udon I got with a friend in Harujuku. Looks better than it tasted. "
+    },
+    {
+      "img": "kat.jpg",
+      "alt": "Cat gallery",
+      "title": "Cat gallery in Shimokitazawa",
+      "caption": "A cute cat gallery I found in Shimokitazawa!"
+    },
+    {
+      "img": "enoshima.jpg",
+      "alt": "Enoshima Mountain",
+      "title": "Enoshima Mountain",
+      "caption": "The view from Enoshima Mountain, a coastal town an hour out of Tokyo. "
+    },
+    {
+      "img": "jellyfish.jpg",
+      "alt": "Jellyfish ",
+      "title": "Jellyfish at Enoshima Aquarium ",
+      "caption": "Cute jellyfish I found at the Enoshima Aquarium! I wouldn't recommend going though (Japan has animal cruelty problems)."
+    }
+  ]
+}

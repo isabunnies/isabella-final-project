@@ -1,0 +1,140 @@
+{
+  "blogs": [
+    {
+      "slug": "one",
+      "headline": "Essential Japanese For Traveling to Japan",
+      "date": "Apr. 20, 2025",
+      "image": "peach.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "So you want to travel to Japan. It’s always best to prepare in the language and customs before traveling abroad, and Japan is no exception. In most of the touristy places, and especially in the very central parts of Tokyo, you can get by with just speaking English. All the important things, like train station signs and touch-screen restaurant menus will all have English, but if you want to enter a mom-and-pop shop for a more local feel, there’s no guarantee that shop employees will have any English knowledge. Adjust your expectations, English is a very hard language for Japanese speakers to learn, so it’s not as accessible as speaking English in Europe, for example."
+        },
+        {
+          "type": "text",
+          "value": "When I was in Japan, besides the simple arigatou gozaimasu (Thank You) and sumimasen (Sorry, or Excuse Me) most of my interactions in Japanese involved ordering something."
+        },
+        {
+          "type": "text",
+          "value": "But before I get into the vocabulary, I’m going to suggest something crazy. Learn hiragana and katakana if you do plan on going to the outskirts of the city. If you don’t know, hiragana and katakana are essentially the building blocks– the alphabet –of the Japanese language. Katakana is the same thing as hiragana, but is exclusive to loan words from foreign countries. Crazy right? You must be thinking, there’s not one but two alphabets I have to learn? Already have a headache?"
+        },
+        {
+          "type": "text",
+          "value": "It’s ok, Japanese only gets more and more complex than this, and learning these two alphabets is a walk in the park compared to the devastation of learning kanji (that’s where the real meat is). If you took 30 minutes out of your day for two weeks, I’m sure you’d be able to learn these two alphabet systems in no time. I also recommend checking resources like WaniKani, Genki, and Anki for maximizing any Japanese studying too. I have more information on that under the Resources tab above– feel free to take a look!"
+        },
+        {
+          "type": "text",
+          "value": "Ok, so first order of business is to learn hiragana and katakana, It’ll make your life a lot easier. Trust me!"
+        },
+        {
+          "type": "text",
+          "value": "Now, onto some helpful phrases when ordering."
+        },
+        {
+          "type": "text",
+          "value": "Basic Phrases:"
+        },
+        {
+          "type": "text",
+          "value": "* すみません (Sumimasen) – Excuse me / Sorry (to get attention)"
+        },
+        {
+          "type": "text",
+          "value": "* お願いします (Onegaishimasu) – Please (used when making a request)"
+        },
+        {
+          "type": "text",
+          "value": "* これ (Kore) – This (useful for pointing at the menu or food)"
+        },
+        {
+          "type": "text",
+          "value": "* それ (Sore) – That (used for referring to something closer to the person you’re speaking to)"
+        },
+        {
+          "type": "text",
+          "value": "* いただきます (Itadakimasu) – Let's eat (said before eating)"
+        },
+        {
+          "type": "text",
+          "value": "* ごちそうさまでした (Gochisousama deshita) – Thank you for the meal (said after eating)"
+        },
+        {
+          "type": "Ordering",
+          "value": ""
+        },
+        {
+          "type": "text",
+          "value": "* メニューをください (Menyuu o kudasai) – Please give me the menu."
+        },
+        {
+          "type": "text",
+          "value": "* これをください (Kore o kudasai) – I’ll have this, please."
+        },
+        {
+          "type": "text",
+          "value": "* これを一つください (Kore o hitotsu kudasai) – One of this, please."
+        },
+        {
+          "type": "text",
+          "value": "* 水をください (Mizu o kudasai) – Please give me water."
+        },
+        {
+          "type": "text",
+          "value": "* お勧めは何ですか？ (Osusume wa nan desu ka?) – What’s your recommendation?"
+        },
+        {
+          "type": "Payment",
+          "value": ""
+        },
+        {
+          "type": "text",
+          "value": "* お会計お願いします (Okaikei onegaishimasu) – The check, please."
+        },
+        {
+          "type": "text",
+          "value": "* クレジットカードで払えますか？ (Kurejitto kaado de haraemasu ka?) – Can I pay with a credit card?"
+        },
+        {
+          "type": "text",
+          "value": "* 現金で払います (Genkin de haraimasu) – I’ll pay with cash."
+        },
+        {
+          "type": "text",
+          "value": "With these phrases, you should be prepared to navigate most interactions with shop employees. Good luck with your travels!"
+        }
+      ]
+    },
+    {
+      "slug": "two",
+      "headline": "My Life in Japan! And a Love Letter to My Second Home",
+      "date": "Apr. 24, 2025",
+      "image": "azabu-2.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "In spring 2024, I had the incredible opportunity to study abroad at Sophia University in Tokyo, and it was one of the most unforgettable experiences of my life. But my life in Tokyo wasn’t all glitz and glamour– far from it."
+        },
+        {
+          "type": "text",
+          "value": "There were moments where I was incredibly lonely, I had never been so far from home, and my from loved ones, for such a prolonged period of time. Japanese culture and society is also vastly different from the culture in the U.S. too, it’s very strict and rigid. Only until the very end of my 6-month-long journey did I finally get used to it. There were a lot of moments where I felt like all eyes were watching my every move, especially living as a foreigner in such a homogenous society."
+        },
+        {
+          "type": "text",
+          "value": "What eventually became important to me, was the feeling of home. And the city where I lived, Azabu-Juban, became a second home to me during my time studying abroad. I know every street, every shop, in my little neighborhood of Azabu-Juban. It also wasn’t uncommon to see foreigners in the area too, as Azabu-Juban houses a plethora of international embassies. I was mere steps away from the Korean, Australian, Iranian, and Portuguese embassies. The American embassy was a couple of train-stops away."
+        },
+        {
+          "type": "text",
+          "value": "With Azabu-Juban’s international population, it was also home to the most famous international grocery stores in Tokyo, too. If I ever missed Hot Cheetos or American cheese, (very rare items in Japan!) I was lucky enough to have a fix nearby."
+        },
+        {
+          "type": "text",
+          "value": "Additionally, I made sure to utilize the public resources Azabu-Juban offered as well. The city office offered specialty Japanese classes for foreigners who lived in the area on the weekends, and had Japanese language exchange programs as well. These were really helpful resources that allowed me to improve my Japanese outside of university classes, and for a really affordable price too!"
+        },
+        {
+          "type": "text",
+          "value": "So if you ever want a taste of home in Tokyo, look no further than taking a trip to Azabu-Juban, it’s a culturally rich area in the heart of Tokyo with a lot of international influence, you won’t want to miss it!"
+        }
+      ]
+    }
+  ]
+}
